@@ -32,7 +32,7 @@ class Student implements Serializable
     }
     public void Disp()
     {
-        System.out.println("name is  "+name);
+        System.out.println("name is "+name);
         System.out.println("age is "+age);
         System.out.println("rno is "+rno);
     }
